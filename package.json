@@ -1,0 +1,31 @@
+{
+  "name": "10-testing_jest",
+  "version": "1.0.0",
+  "description": "Unit test with JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HajdukSanchez/JS-Test-JEST.git"
+  },
+  "keywords": [
+    "javascript",
+    "jest",
+    "unit",
+    "test"
+  ],
+  "author": "Jozek Andrzej Hajduk Sánchez <hajduksanchez.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HajdukSanchez/JS-Test-JEST/issues"
+  },
+  "homepage": "https://github.com/HajdukSanchez/JS-Test-JEST#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
