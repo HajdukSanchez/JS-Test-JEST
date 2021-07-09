@@ -10,4 +10,7 @@ describe('Array content a specific element', () => {
   test('Array length', () => {
     expect(arrayFruits()).toHaveLength(6)
   })
+  test('Contains a color', () => {
+    expect(arrayColors()).toContain('red')
+  })
 })
