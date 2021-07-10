@@ -29,5 +29,9 @@
     "@babel/preset-env": "^7.14.7",
     "babel-jest": "^27.0.6",
     "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.24",
+    "axios": "^0.21.1"
   }
 }
