@@ -9,3 +9,17 @@ Object {
   "status": "Alive",
 }
 `;
+
+exports[`Snapshot test Should Snapshot always fail 1`] = `
+Object {
+  "createAt": 2021-07-12T22:00:55.081Z,
+  "id": 3,
+}
+`;
+
+exports[`Snapshot test Should Snapshot with exceptions 1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "Jozek Hajduk",
+}
+`;
